@@ -6,11 +6,13 @@ Technical Support on [Netxpert Sistemas](http://netxpert.com.br) and Front-End.
 [![Linkedin Badge](https://img.shields.io/badge/-Ronnie%20Pettersonn-2fc4e4?style=flat-square&labelColor=1f1f1f&logo=linkedin&logoColor=white&link=https://linkedin.com/in/ronniepettersonn)](https://linkedin.com/in/ronniepettersonn) 
 [![Mail.Ru Badge](https://img.shields.io/badge/-contato@ronniepettersonn.com.br-2fc4e4?style=flat-square&labelColor=1f1f1f&logo=Mail.Ru&logoColor=white&link=mailto:contato@ronniepettersonn)](mailto:contato@ronniepettersonn) 
 
-Student of Systems Analysis and Development at Newton Paiva University.
+Graduated in Systems Analysis and Development from Newton Paiva University.
 
-I'm currently studying front-end focused on HTML, CSS, JavaScript and ReactJS.
+I'm a Front-End developer, and I specialize in ReactJS, working with Typescript, Tailwind, Vite and discovering new technologies.
 
-My goal is to have more security in these technologies that I'm studying and I want to get my first job in the front-end area.
+I had my first experience as a Front-End in a challenging project at a startup called Monitorei, which developed a SaaS to meet the needs of Accounting. In this project I have been the only Front-End developer.
+
+My goals are career development as a Front-End, personal development through creating new connections with more experienced people and progressing towards an international career.
 
 <br>
 
