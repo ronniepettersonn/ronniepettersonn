@@ -1,6 +1,6 @@
 # Ronnie Pettersonn
 
-Technical Support on [Netxpert Sistemas](http://netxpert.com.br).
+Technical Support on [Netxpert Sistemas](http://netxpert.com.br) and Front-End.
 
 [![Instagram Badge](https://img.shields.io/badge/-@ronniepettersonn-2fc4e4?style=flat-square&labelColor=1f1f1f&logo=instagram&logoColor=white&link=https://instagram.com/ronniepettersonn)](https://instagram.com/ronniepettersonn) 
 [![Linkedin Badge](https://img.shields.io/badge/-Ronnie%20Pettersonn-2fc4e4?style=flat-square&labelColor=1f1f1f&logo=linkedin&logoColor=white&link=https://linkedin.com/in/ronniepettersonn)](https://linkedin.com/in/ronniepettersonn) 
